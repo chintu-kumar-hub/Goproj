@@ -1,0 +1,13 @@
+HOW TO INSTALL THE UBUNTU IN WINDOWS -64 OPERATING SYSTEM ?.....
+ANS- First of all check the windows subsystem for linux and virtual machine performed 
+     is on or not for that go to search of your system and type- turn of or on windows
+     features and press the enter 
+                                         after enter you get a new dialog box check the 
+     box virtual machine and windows subsystem for linux option 
+step -2 -: open the your terminal from search box wsl by writing command wsl --install
+           (after wsl there is a space) and press enter 
+                                                                  wait till the 
+     installation process of all the components in complete onece installation 
+     is completed then reboot your pc.
+                                         after rebootin pc for make sure that wsl is 
+     installed in your pc or not for that do process wsl --version the press enter .
